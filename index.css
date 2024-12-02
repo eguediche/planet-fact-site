@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&family=Lexend+Deca:wght@100..900&family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&family=League+Spartan:wght@100..900&family=Lexend+Deca:wght@100..900&family=Manrope:wght@200..800&display=swap');
+
+.pc-first_tablet-first{
+display: none;
+}
+
+.mobile-first{
+    background-color: #070724;
+}
+
+.Nav-Bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+
+h1{
+    color: white;
+    font-size: 28px;
+    font-weight: 400;
+    font-family: "Antonio", sans-serif;
+}
+
+hr{
+    border: solid 1px white;
+}
+
+.Homesweethome{
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.B01{
+    border: none;
+    background-color: #070724;
+    color: white;
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 9px;
+    align-items: center;
+    border-bottom: 4px #6D2ED5 solid ;
+}
+
+.B02{
+    border: none;
+    background-color: #070724;
+    color: white;
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 9px;
+    align-items: center;
+}
+
+.B03{
+    border: none;
+    background-color: #070724;
+    color: white;
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 9px;
+    align-items: center;
+}
+
+.Boite1{
+    display: flex;
+    flex-direction: column;
+}
+
+.earth{
+    width: 50%;
+    align-self: center;
+    margin-top: 10%;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 400;
+    color: white;
+    font-family: "Antonio", sans-serif;
+    align-self: center;
+}
+
+p{
+    color: white;
+    font-size: 11px;
+    font-weight: 400;
+    font-family: "League Spartan", sans-serif;
+    align-self: center;
+    width: 70%;
+}
+
+h6{
+    font-family: "League Spartan", sans-serif;
+    color: white;
+    font-weight: 400;
+    font-size: 12px;
+    align-self: center;
+}
+
+
+
+
+.Boite-21{
+    flex-direction: row;
+    justify-content: space-between;
+    border: white 1px;
+}
+
+h5{
+    font-size: 8px;
+    font-weight: 700;
+    font-family: "League Spartan", sans-serif;
+    color: white;
+}
+
+h4{
+    font-weight: 400;
+    font-size: 20px;
+    font-family: "Antonio", sans-serif;
+    color: white;
+}
